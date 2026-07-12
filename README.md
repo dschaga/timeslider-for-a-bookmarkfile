@@ -6,9 +6,8 @@ Collecting bookmarks is happening during the whole digital lifetime, which can b
 Current browsers lets the user organise bookmarks in folders, subfolders and tags and sort the bookmarks by time.
 
 **What if it would be possible to filter bookmarks by time?**
-
-
 This tiny javascript give you a chance to find out by your own.
+![Beschreibung](example.png){height=120}
 
 ### How to use the script:
 * Export your bookmarks
