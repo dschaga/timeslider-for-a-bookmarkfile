@@ -7,7 +7,7 @@ Current browsers lets the user organise bookmarks in folders, subfolders and tag
 
 **What if it would be possible to filter bookmarks by time?**
 This tiny javascript give you a chance to find out by your own.
-![Beschreibung](example.png){height=120}
+<img src="example.png" width="500" >
 
 ### How to use the script:
 * Export your bookmarks
