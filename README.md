@@ -13,10 +13,11 @@ This tiny javascript give you a chance to find out.
 <img src="example.png" width="500" >
 
 ### How to use the script:
-* Export your bookmarks
-* Download the "slider.js"
+* Export your bookmarks file
+* Download the "slider.js" and copy it to the folder of your bookmark file.
 * open the bookmars html in a texteditor
 *  add this line in the header or body ..  <script src="slider.js"></script>
+* open your bookmark.html file 
 
 ### What will it do?
 The script add an element - a very basic slider - and an eventlistener
@@ -24,4 +25,5 @@ The script is looking for the first and last addes bookmark and set the date to 
 The eventlistener listen to the slider start and end and will then set the filter for this range in time.
 
 note: 
-it's a demonstrator and not intended to be a codeexample! Of course there will be smaller and better code - i'm not a developer :)
+it's a demonstrator and not intended to be a codeexample! 
+Of course there will be smaller and better code - i'm not a developer :)
