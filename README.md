@@ -22,4 +22,5 @@ The script add an element - a very basic slider - and an eventlistener
 The script is looking for the first and last addes bookmark and set the date to the start and endpoint of the slider
 The eventlistener listen to the slider start and end and will then set the filter for this range in time.
 
-note: it's a demonstrator and not intended to be a codeexample! 
+note: 
+it's a demonstrator and not intended to be a codeexample! Of course there will be smaller and better code - maybe soon in a real browser native bookmarkmanger ;) 
