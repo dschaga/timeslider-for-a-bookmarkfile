@@ -1,10 +1,11 @@
 # timeslider-for-a-bookmarkfile
 
 This small script demonstrates the benefit of having a timeslide for bookmarks.
-Collecting bookmarks is happening during the whole digital lifetime and can be quite long.
+Collecting bookmarks is happening during the whole digital lifetime, which can become decades.
+
 Current browsers lets the user organise bookmarks in folders, subfolders and tags and sort the bookmarks by time.
 
-What if it would be possible to filter them by time?
+**What if it would be possible to filter bookmarks by time?**
 
 
 This tiny javascript give you a chance to find out by your own.
